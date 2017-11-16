@@ -8,7 +8,7 @@
 
 同样是针对特定的问题给出特定的解决办法。设计模式是一套被反复使用的、多数人知晓的、经过分类编目的、代码设计经验的总结。使用设计模式是为了重用代码、让代码更容易被他人理解、保证代码可靠性。设计模式中的每种模式都描述了一个在我们周围不断重复发生的问题，以及该问题的核心解决方案，这也是设计模式能被广泛应用的原因。
 
-
+<img src="https://github.com/leefinechan/23DesignPattern/blob/master/src/Pattern/23DesignPattern.png?raw=true">
 
 
 自80年代中期到90年代，是面向对象语言走向繁荣的阶段。其主要表现是大批比较实用的OOPL的涌现，例如C++、Objective-C、Java、、Object Pascal等。
